@@ -1,1 +1,2 @@
-# Alarm-Clock-Project
+# Sam Ellison
+## Alarm-Clock-Project
